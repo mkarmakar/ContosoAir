@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/monalisakarmakar2019/jenkinscicd/_apis/build/status/mkarmakar.ContosoAir?branchName=master)](https://dev.azure.com/monalisakarmakar2019/jenkinscicd/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
